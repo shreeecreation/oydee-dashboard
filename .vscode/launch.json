@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "oydeeedashboard",
+            "cwd": "oydeeedashboard",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "oydeeedashboard (profile mode)",
+            "cwd": "oydeeedashboard",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "oydeeedashboard (release mode)",
+            "cwd": "oydeeedashboard",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
